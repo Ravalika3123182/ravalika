@@ -1,4 +1,4 @@
-Chapter 8: Source Code & Output Screenshots
+Chapter 8: Source Code
 Home-Blade.php
 @extends(getTemplate().'.layouts.app')
 @push('styles_top')
